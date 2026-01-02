@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "贄-nie-",
+  "base_artist": "吉乃",
+  "createdAt": "2026-01-02T10:15:01.747749Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "贄-nie-",
+      "artist": "吉乃",
+      "has_synced": false,
+      "path": "select/pl_01_贄-nie-_吉乃.txt"
+    }
+  ]
+}
